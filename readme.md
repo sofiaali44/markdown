@@ -1,5 +1,6 @@
 # heading
 ## sub heading
 
-some text text  text
-** bold **
+some text text  text  
+
+**bold** and *italics* ***bold and italics***
