@@ -12,4 +12,6 @@ writing a code `let m = 5` `{}`<br>
 
 [https://youtu.be/_PPWWRV6gbA?feature=shared](https://youtu.be/_PPWWRV6gbA?feature=shared)ss <br>
 
-<https://youtu.be/_PPWWRV6gbA?feature=shared>
+<https://youtu.be/_PPWWRV6gbA?feature=shared><br>
+
+![image](c:\Users\User\Downloads\DALL·E 2025-03-14 07.33.42 - A professional-looking avatar of a Somali woman wearing a black hijab. She has rich brown skin and distinct Somali facial features. She is dressed in .webp)
