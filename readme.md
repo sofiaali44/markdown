@@ -16,4 +16,8 @@ writing a code `let m = 5` `{}`<br>
 
 ![image](DALL·E 2025-03-14 07.33.42 - A professional-looking avatar of a Somali woman wearing a black hijab. She has rich brown skin and distinct Somali facial features. She is dressed in .webp) <br>
 
-> markdown 
+> markdown <br>
+
+* item 1
+* item 2
+    * item 3
