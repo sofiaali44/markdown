@@ -26,3 +26,7 @@ writing a code `let m = 5` `{}`<br>
 |-------------|------|
 | 0001        | sofia|
 |002 |mariam|
+
+```sql
+select *
+from teachers 
